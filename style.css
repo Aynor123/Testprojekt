@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "roboto-rg";
+    src: url("./fonts/Roboto-Regular.ttf");
+}
+
+@font-face {
+    font-family: "roboto-bold";
+    src: url("./fonts/Roboto-Bold.ttf");
+}
+
+@font-face {
+    font-family: "satisfy-rg";
+    src: url("./fonts/Satisfy-Regular.ttf");
+}
+
+* {
+    margin: 0;
+    font-family: 'roboto-rg';
+    color: rgb(36, 46, 48);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
